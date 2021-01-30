@@ -1,0 +1,3 @@
+Veritabanı kısmı için SQLServer kullanılmıştır. Detayları video üzerinden öğrenebilirsiniz. 
+
+Video link: https://youtu.be/AZrdC101CcU
